@@ -15,7 +15,7 @@
 
 </div>
 
-<div style="align-items:center; display: flex;">
+<div style="display: flex;">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark)
 
