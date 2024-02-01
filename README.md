@@ -6,11 +6,11 @@
 
 <h1 align="center">My stack</h1>
 <div style="display:flex;" align="center">
-<img style="width: 20%" src="./assets/nestjs-plain.svg" />
-<img style="width: 20%" src="./assets/javascript-plain.svg" />
-<img style="width: 20%" src="./assets/postgresql-plain.svg" />
-<img style="width: 20%" src="./assets/prisma-svgrepo-com.svg" />
-<img style="width: 20%" src="./assets/react-original.svg" />
+<img style="width: 50px padding: 50px" src="./assets/nestjs-plain.svg" />
+<img style="width: 50px" src="./assets/javascript-plain.svg" />
+<img style="width: 50px" src="./assets/postgresql-plain.svg" />
+<img style="width: 50px" src="./assets/prisma-svgrepo-com.svg" />
+<img style="width: 50px" src="./assets/react-original.svg" />
 
 </div>
 
