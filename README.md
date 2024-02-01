@@ -15,20 +15,9 @@
 
 </div>
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark" /></td>
-    <td valign="top"><img src="./assets/shigure-goddess.gif" /></td>
-  </tr>
-</table>
-
-<div style="display: flex;">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark" />
-
-
-<img src="./assets/shigure-goddess.gif" />
-
+<div style="display: flex; justify-content:center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark" />
+  <img src="./assets/shigure-goddess.gif" />
 </div>
 
 
