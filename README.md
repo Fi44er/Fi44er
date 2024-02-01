@@ -5,9 +5,10 @@
 </h1>
 
 <h1 align="center">My stack</h1>
-<div style="display:flex; text-align: center">
-
+<div style="display:flex;" align="center">
+<div width="31%">
 <img style="width: 50px" src="./assets/nestjs-plain.svg" />
+</div>
 <img style="width: 50px" src="./assets/javascript-plain.svg" />
 <img style="width: 50px" src="./assets/postgresql-plain.svg" />
 <img style="width: 50px" src="./assets/prisma-svgrepo-com.svg" />
