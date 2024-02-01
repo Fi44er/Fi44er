@@ -5,7 +5,7 @@
 </h1>
 
 <h1 align="center">My stack</h1>
-<div style="display:flex; justify-content: center; grid-gap:50px ">
+<div style="display:flex;grid-gap:50px ">
 
 <img style="width: 50px" src="./assets/nestjs-plain.svg" />
 <img style="width: 50px" src="./assets/javascript-plain.svg" />
