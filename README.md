@@ -5,15 +5,30 @@
 </h1>
 
 <h1 align="center">My stack</h1>
-<div style="display:flex;" align="center">
-
-<img style="width: 50px" src="./assets/nestjs-plain.svg" />
-<img style="width: 50px" src="./assets/javascript-plain.svg" />
-<img style="width: 50px" src="./assets/postgresql-plain.svg" />
-<img style="width: 50px" src="./assets/prisma-svgrepo-com.svg" />
-<img style="width: 50px" src="./assets/react-original.svg" />
-
+<pre style="display:flex;" align="center">
+<div>
+  <img style="width: 50px" src="./assets/nestjs-plain.svg" />
+  NestJs
 </div>
+<div>
+  <img style="width: 50px" src="./assets/javascript-plain.svg" />
+  JavaScript
+</div>
+<div>
+  <img style="width: 50px" src="./assets/postgresql-plain.svg" />
+  Postgresql
+</div>
+<div>
+  <img style="width: 50px" src="./assets/prisma-svgrepo-com.svg" />
+  Prisma
+</div>
+<div>
+  <img style="width: 50px" src="./assets/react-original.svg" />
+  React
+</div>
+
+
+</pre>
 
 <div style="display: flex;" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark" />
