@@ -19,7 +19,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark)
 
-<img src="./assets/shigure-goddess.gif" />
+<img src="./assets/shigure-goddes (1).gif" />
 
 </div>
 
