@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: flex;" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fi44er&theme=solarized_dark" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fi44er)](https://github.com/anuraghazra/github-readme-stats)
   <img src="./assets/shigure-goddess.gif" />
 </div>
 
