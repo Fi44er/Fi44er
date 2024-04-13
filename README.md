@@ -15,10 +15,9 @@
 </div>
 
 <div style="display: flex;" align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fi44er)](https://github.com/anuraghazra/github-readme-stats)
   <img src="./assets/shigure-goddess.gif" />
 </div>
 
 
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fi44er)](https://github.com/anuraghazra/github-readme-stats)
