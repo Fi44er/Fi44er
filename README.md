@@ -8,7 +8,6 @@
 
 <div style="display: flex;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fi44er&layout=compact&theme=vision-friendly-dark&hide=null" />
-  <img src="./assets/shigure-goddess.gif" />
 </div>
 
 
