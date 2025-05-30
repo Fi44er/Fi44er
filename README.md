@@ -5,13 +5,13 @@
 </h1>
 
 </div>
-<picture>
+<div style="display: flex;" align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=Fi44er&theme=tokyonight&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-wheat-delta.vercel.app?user=Fi44er&theme=default&hide_border=true">
     <img alt="GitHub Streak" src="https://github-readme-streak-stats-wheat-delta.vercel.app?user=Fi44er&theme=default&hide_border=true">
-  </picture>
-
-<div style="display: flex;" align="center">
+  </picture>a
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fi44er&layout=compact&theme=vision-friendly-dark&hide=null" />
 </div>
 
